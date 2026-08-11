@@ -1,2 +1,2 @@
 // calculo de juros
-function juros(x,i) { return c * (i/100); }
+function juros(x,i) { return (c * i)/100; }
